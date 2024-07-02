@@ -14,7 +14,7 @@ $ cd aaiela
 $ pip install -r requirements.txt
 $ # pip install --force-reinstall ctranslate2==3.24.0 # for cuda 11.8
 $ cd models
-$ python -m pip install -e detectron2
+$ python3 -m pip install -e detectron2
 ```
 
 Follow [detectron2 install instruction](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
